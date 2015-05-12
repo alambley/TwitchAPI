@@ -1,3 +1,5 @@
+//g++ -std=c++11 -o TwitchAPI TwitchAPI.cpp -lcurl
+
 #include <iostream>
 #include <string>
 #include <vector>
